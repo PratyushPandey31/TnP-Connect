@@ -240,6 +240,8 @@ Application available at: **`http://localhost:4200`**
 > All `/api/**` calls are proxied to `http://localhost:8080`. Ensure the backend is running first.
 
 ---
+## Deployed Frontend On Netlify and Backend on Render 
+## https://tnp-connect.netlify.app/auth/login
 
 ## API Documentation
 
