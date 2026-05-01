@@ -22,7 +22,7 @@
 
 <br/>
 
-**[Live Demo](#)** · **[API Documentation](#api-documentation)** · **[Architecture Diagrams](ARCHITECTURE.md)** · **[Report Bug](#)**
+**[Live Demo](https://tnp-connect.netlify.app/auth/login)** · **[API Documentation](#api-documentation)** · **[Architecture Diagrams](ARCHITECTURE.md)** · **[Report Bug](#)**
 
 </div>
 
